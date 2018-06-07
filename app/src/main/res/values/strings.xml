@@ -1,0 +1,27 @@
+<resources>
+    <!-- Not all of the string resources are used in the quiz app, but they give the answers to the questions. -->
+    <string name="app_name">Avalanche Quiz</string>
+    <string name="Q1">How many avalanche accidents were reported in Colorado from 1950-51 to 2016-17?</string>
+    <string name="A1">276. This is the highest number of avalanche accidents in the U.S. The next highest is AK with 152 accidents.</string>
+    <string name="Q2">What 3 things must be present for there to be an avalanche hazard to people or to property?</string>
+    <string name="A2_1">Terrain (slope angles from 25 to 45 degrees)</string>
+    <string name="A2_2">Trees and rocks</string>
+    <string name="A2_3">Snowpack instability</string>
+    <string name="A2_4">Weather: precipitation, wind, temperature</string>
+    <string name="Q3">Do avalanches occur naturally, without an artificial trigger?</string>
+    <string name="A3">Yes</string>
+    <string name="Q4">CAIC provides backcountry avalanche zone forecasts.</string>
+    <string name="A4">Yes. CAIC provides avalanche zone forecasts for Colorado.</string>
+    <string name="Q5">The North American Avalanche Danger Scale has the following 5 levels: (Pick 5)</string>
+    <string name="A5_1">1-Minuscule</string>
+    <string name="A5_2">4-High</string>
+    <string name="A5_3">2-Moderate</string>
+    <string name="A5_4">5-Extreme</string>
+    <string name="A5_5">1-Low</string>
+    <string name="A5_6">5-Gargantuan</string>
+    <string name="A5_7">2-Medium</string>
+    <string name="A5_8">3-Considerable</string>
+    <string name="Q6">Avalanche accidents only happen at danger level 3 (Considerable) and higher. (True/False)</string>
+    <string name="A6">False. Consequential avalanches can occur at any danger level, depending upon local conditions and factors.</string>
+    <string name="CAIC">avalanche.state.co.us</string>
+</resources>
